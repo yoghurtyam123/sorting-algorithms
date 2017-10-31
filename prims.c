@@ -1,8 +1,8 @@
 #include <stdio.h>
 
-//task 1, create an adjacency list
+//task 1, create an adjacency list, nad btw, hi
 
-#define V 6        //number of elements
+#define V 6        //number of elementss
 
 struct node* adjlist[V];
 
