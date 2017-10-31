@@ -6,7 +6,7 @@
 
 struct node* adjlist[V];
 
-// this is the change kjbwen;on
+// this is the change kjbwen;on                lhbwerlioubvwe'pkv
 
 void InitilizeArray(void){
 
