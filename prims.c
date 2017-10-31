@@ -6,6 +6,8 @@
 
 struct node* adjlist[V];
 
+// this is the change 
+
 void InitilizeArray(void){
 
 	for (int i = 0; i < V; ++i)
